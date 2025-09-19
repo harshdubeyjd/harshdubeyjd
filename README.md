@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **harshdubeyjd/harshdubeyjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,12 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...<!-- Banner Image -->
+<img width="1000" height="235" alt="image" src="https://github.com/user-attachments/assets/42626746-c3b4-475a-93f5-744a557cc3f5" />
 
-<p align="center">
-  <img width="895" alt="image" src="https://github.com/user-attachments/assets/2c995e28-4cb2-4807-a937-72b9979da930" />
-
-
-</p>
 
 # 👋 Hi, I'm Harsh Dubey!
 
