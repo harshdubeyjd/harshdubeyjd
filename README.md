@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 
 ## 🔥 My Stats
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=harshdubey29&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=harshdubeyjd&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdubey29&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdubeyjd&layout=compact&theme=radical)
 
 ---
 
