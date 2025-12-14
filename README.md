@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: **[Swarm Analysis for recipt Categorisation](project-link)**
+- 🔭 I’m currently working on: **[Swarm Analysis for recipt Categorisation]((https://github.com/harshdubeyjd/receipt-ocr-app))**
 - 💡 Interests: Automation, Machine Learning, AI, Cloud, Tech Writing, Photography
 - 🏆 Achievements:
 - 📫 How to reach me: [harshdubey.jd@gmail.com]
